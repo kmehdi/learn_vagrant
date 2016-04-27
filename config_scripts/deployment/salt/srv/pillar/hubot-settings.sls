@@ -1,0 +1,8 @@
+hubot_campfire_account: ''
+hubot_campfire_rooms: ''
+hubot_campfire_token: ''
+hubot_irc_server: 'irc.perl.org'
+hubot_irc_rooms: '#henshall'
+hubot_name: 'henshall'
+hubot_adapter: 'irc'
+hubot_repo: 'https://github.com/matthutchinson/henshall.git'
